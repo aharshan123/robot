@@ -8,4 +8,6 @@ LoginTest
     Open Browser    https://www.myntra.com/    chrome
 
 *** Keywords ***
+True
+False
 
