@@ -9,5 +9,4 @@ LoginTest
 
 *** Keywords ***
 True
-False
 
